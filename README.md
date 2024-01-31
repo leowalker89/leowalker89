@@ -1,22 +1,21 @@
 ### Hi there 👋, Leo Walker
 #### Data Scientist / Machine Learning Engineer
-I started my data journey as a Data Analyst focusing on leveraging SQL and different visualization tools create descriptive analytics tools.
+I started my data journey as a Data Analyst, focusing on leveraging SQL and different visualization tools to create descriptive analytics tools.
 
-As I started my data science journey I found an interest in natural language processing (NLP) but found that I could deliver measurable value with other techniques like regression and classification.
-
-As large language models came onto the scene it has fueled my desire to get back into NLP and continue to develop on the cutting edge of this technology.
+As I embarked on my data science journey, I found a keen interest in natural language processing (NLP). While I have delivered measurable value with techniques like regression and classification, the advent of large language models has reignited my passion for NLP, pushing me to develop on the cutting edge of this technology.
 
 ## Projects
 
 ### Resume Parser
-I developed a Resume Parser project that leverages large language models for natural language processing. The project is hosted on Hugging Face Spaces. You can check it out [here](https://huggingface.co/spaces/LeoWalker/ResumeParser).
+I developed a Resume Parser project that leverages large language models for natural language processing. Hosted on Hugging Face Spaces, this project parses resumes into structured data for applications such as automated resume screening and candidate ranking. It's a testament to how NLP and machine learning can streamline complex tasks. 
+[Check it out here](https://huggingface.co/spaces/LeoWalker/ResumeParser).
 
-This project parses resumes into structured data, which can be used for various applications such as automated resume screening, candidate ranking, and more. It's a great example of how NLP and machine learning can be used to automate and streamline complex tasks.
+### VA Loan Chatbot
+In an effort to innovate in the financial tech space, I created a VA Loan Chatbot. This project utilizes the Retriever-Augmented Generation (RAG) model on multiple VA loan books converted from PDFs. The chatbot serves as a user-friendly interface for veterans seeking information on VA loans, demonstrating the power of NLP in simplifying access to complex information.
+[Explore the VA Loan Chatbot](https://github.com/leowalker89/vaLoan_chatbot).
 
+### Nonprofit Grader - Hackathon Project
+As part of a hackathon, I collaborated with a team of four on the Nonprofit Grader project. This project aims to assess and grade nonprofit organizations, providing an innovative tool for evaluating their impact and efficiency. Our approach combined data analysis with insightful metrics to create a meaningful grading system.
+[See our work on Nonprofit Grader](https://github.com/joshuasundance-swca/nonprofit-grader).
 
 **Skills**: Python, Machine Learning, Data Visualization, Natural Language Processing (NLP), Large Language Models (NLP)
-
-
-
-
-
