@@ -16,7 +16,7 @@ Building on the success of the Resume Parser, I created a sibling project called
 
 ## Hackathon Projects
 
-### LlamaWorksDB - by team CLAB 🏆
+### LlamaWorksDB - by team CLAB 🏆 "Best Use of LlamaIndex"
 As part of a hackathon, I collaborated with Team CLAB on the LlamaWorksDB project. LlamaWorksDB is an AI-powered doc wizard that streamlines knowledge work by tapping into the documentation of multiple sponsors, including LlamaIndex, Fireworks.ai, and MongoDB, all through a single chatbot interface. 📚
 
 Our win in the "Best Use of LlamaIndex" category was featured on the LlamaIndex blog:
