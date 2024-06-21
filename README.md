@@ -6,6 +6,10 @@ As I embarked on my data science journey, I became interested in natural languag
 
 ## Projects
 
+### SearchArena ⚔️
+Inspired by UC Berkeley's LMSYS Chatbot Arena, I developed SearchArena - an open platform for evaluating and comparing search providers. This project allows users to compare results from Perplexity, You.com, Brave Search, and Tavily side by side. Built with Streamlit and leveraging various search APIs, SearchArena aims to encourage exploration of different search tools and showcase innovation in the search space. 🔍
+[Try SearchArena here](https://huggingface.co/spaces/LeoWalker/SearchArena) | [View on GitHub](https://github.com/leowalker89/SearchArena)
+
 ### Resume Parser
 I developed a Resume Parser project that leverages large language models for natural language processing. Hosted on Hugging Face Spaces, this project parses resumes into structured data for applications such as automated resume screening and candidate ranking. It's a testament to how NLP and machine learning can streamline complex tasks. 
 [Check it out here](https://huggingface.co/spaces/LeoWalker/ResumeParser).
@@ -21,9 +25,5 @@ As part of a hackathon, I collaborated with Team CLAB on the LlamaWorksDB projec
 
 Our win in the "Best Use of LlamaIndex" category was featured on the LlamaIndex blog:
 [Streamlining Knowledge Work with LlamaIndex, Fireworks, and MongoDB](https://www.llamaindex.ai/blog/streamlining-knowledge-work-with-llamaindex-fireworks-and-mongodb).
-
-### Nonprofit Grader
-In another hackathon, I collaborated with a team of four on the Nonprofit Grader project. This project aims to assess and grade nonprofit organizations, providing an innovative tool for evaluating their impact and efficiency. Our approach combined data analysis with insightful metrics to create a meaningful grading system. 📊
-[See our work on Nonprofit Grader](https://github.com/joshuasundance-swca/nonprofit-grader).
 
 **Skills**: Python, Machine Learning, Data Visualization, Natural Language Processing (NLP), Large Language Models (NLP)
