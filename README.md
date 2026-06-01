@@ -34,7 +34,6 @@ AI Engineer at **[KaiCare.ai](https://kaicare.ai)** shipping secure clinical age
 * **AI Engineer @ [KaiCare.ai](https://kaicare.ai)**: Architecting secure clinical agents optimizing remote patient monitoring (RPM) and chronic care workflows.
 * **Chapter Lead @ MLOps Community**: Coordinating events and co-hosting the Coding Agents Lunch & Learn series.
 * **Founder @ [Lead The Way with AI](https://leadthewaywithai.com)**: Direct engineering consulting, technical stack due diligence, and developer training workshops.
-* **Background**: MS in Data Science (University of Denver, GPA 3.8), BS in Electrical & Computer Engineering (VMI). 6 years in the US Army (75th Ranger Regiment).
 
 ---
 
